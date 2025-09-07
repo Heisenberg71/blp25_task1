@@ -158,6 +158,16 @@ The [baselines](baselines) module currently contains a majority, random and a si
 
 
 #### Subtask 1A
+
+Baseline Results for the task on Test set (Evaluation Phase)
+
+| Model                      | micro-F1 |
+|----------------------------|----------|
+| Random Baseline            | 0.1638   |
+| Majority Baseline          | 0.5638   |
+| n-gram Baseline            | 0.6020   |
+
+
 Baseline Results for the task on Dev-Test set
 
 | Model                      | micro-F1 |
@@ -168,6 +178,15 @@ Baseline Results for the task on Dev-Test set
 
 
 #### Subtask 1B
+Baseline Results for the task on Test set (Evaluation Phase)
+
+| Model                      | micro-F1 |
+|----------------------------|----------|
+| Random Baseline            | 0.2043   |
+| Majority Baseline          | 0.5974   |
+| n-gram Baseline            | 0.6209   |
+
+
 Baseline Results for the task on Dev-Test set
 
 | Model                      | micro-F1 |
@@ -178,6 +197,16 @@ Baseline Results for the task on Dev-Test set
 
 
 #### Subtask 1C
+Baseline Results for the task on Test set (Evaluation Phase)
+
+| Model                      | weighted micro-F1 |
+|----------------------------|-------------------|
+| Random Baseline            | 0.2304            |
+| Majority Baseline          | 0.6072            |
+| n-gram Baseline            | 0.6305            |
+
+
+
 Baseline Results for the task on Dev-Test set
 
 | Model                      | weighted micro-F1 |
