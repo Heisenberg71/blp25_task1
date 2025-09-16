@@ -301,6 +301,106 @@ There are various papers associated with the task. Details for the papers specif
 will update soon
 ```
 
+
+## Leaderboard
+
+### Subtask 1A
+|Rank| username         |F1-Macro|
+|----|------------------|--------|
+|1   | shifat_islam     |0.7362  |
+|2   | SyntaxMind       |0.7345  |
+|3   | zannatul_007     |0.734   |
+|4   | mahim_ju         |0.7331  |
+|5   | reyazul          |0.7328  |
+|6   | mohaiminulhoque  |0.7323  |
+|7   | nahidhasan       |0.7305  |
+|8   | adib709          |0.7282  |
+|9   | sahasourav17     |0.7275  |
+|10  | ashraf_989       |0.7273  |
+|11  | CUET-NLP_Zenith  |0.7263  |
+|12  | nsu_milab        |0.725   |
+|13  | abid_al_hossain  |0.7238  |
+|14  | Penta Global Ltd |0.7178  |
+|15  | mohaymen         |0.7133  |
+|16  | ttprama          |0.7111  |
+|17  | minjacodes9      |0.7075  |
+|18  | samin007         |0.707   |
+|19  | pritampal98      |0.7057  |
+|20  | bahash_ai        |0.7028  |
+|21  | programophile    |0.7013  |
+|22  | fatin_anif       |0.6954  |
+|23  | heytamjid        |0.6941  |
+|24  | adriti12         |0.6921  |
+|25  | im_tushu_221     |0.6901  |
+|26  | sadman03samir    |0.6871  |
+|27  | cuet_sntx_srfrs  |0.6867  |
+|28  | abir_bot69       |0.684   |
+|29  | antara_n_15      |0.6815  |
+|30  | UB               |0.6761  |
+|31  | quasar           |0.6733  |
+|32  | shahriar_9472    |0.6689  |
+|33  | intfloat         |0.6634  |
+|34  | naim-parvez      |0.6587  |
+|35  | Organizers       |0.5638  |
+|36  | teddymas         |0.4589  |
+|37  | mizba            |0.1077  |
+
+### Subtask 1B
+
+|Rank| username         |F1-Macro|
+|----|------------------|--------|
+|1   | mahim_ju         |0.7356  |
+|2   | shifat_islam     |0.7335  |
+|3   | mohaiminulhoque  |0.7328  |
+|4   | reyazul          |0.7317  |
+|5   | SyntaxMind       |0.7317  |
+|6   | zannatul_007     |0.7315  |
+|7   | abid_al_hossain  |0.7286  |
+|8   | nahidhasan       |0.7279  |
+|9   | adib709          |0.7275  |
+|10  | sahasourav17     |0.7269  |
+|11  | Penta Global Ltd |0.7256  |
+|12  | mohaymen         |0.7254  |
+|13  | CUET-NLP_Zenith  |0.7213  |
+|14  | adriti12         |0.7125  |
+|15  | ashraf_989       |0.7114  |
+|16  | ttprama          |0.7095  |
+|17  | nsu_milab        |0.6981  |
+|18  | heytamjid        |0.6979  |
+|19  | pritampal98      |0.6974  |
+|20  | bahash_ai        |0.6954  |
+|21  | cuet_sntx_srfrs  |0.6817  |
+|22  | sadman03samir    |0.676   |
+|23  | Organizers       |0.5974  |
+|24  | lamiaa           |0.2848  |
+
+
+### Subtask 1C
+| Rank | username         |F1-Macro|
+|------|------------------|--------|
+| 1    | mahim_ju         |0.7392  |
+| 2    | CUET-NLP_Zenith  |0.7378  |
+| 3    | shifat_islam     |0.7361  |
+| 4    | reyazul          |0.7332  |
+| 5    | adib709          |0.7312  |
+| 6    | mohaiminulhoque  |0.731   |
+| 7    | sahasourav17     |0.7262  |
+| 8    | abid_al_hossain  |0.725   |
+| 9    | nur_163          |0.7241  |
+| 10   | nahidhasan       |0.724   |
+| 11   | ttprama          |0.7233  |
+| 12   | zannatul_007     |0.7181  |
+| 13   | Penta Global Ltd |0.7159  |
+| 14   | pritampal98      |0.7153  |
+| 15   | abir_bot69       |0.7129  |
+| 16   | sadman03samir    |0.7129  |
+| 17   | bahash_ai        |0.6969  |
+| 18   | cuet_sntx_srfrs  |0.6842  |
+| 19   | aacontest        |0.673   |
+| 20   | Organizers       |0.6072  |
+| 21   | adriti12         |0.3898  |
+
+
 ## Communication
 Please join us in Slack channel for discussion and doubts:
  - [Slack](https://join.slack.com/t/blpworkshop/shared_invite/zt-1ryu9eyac-7fevK9A4_Bt~qN_eCK349g)
