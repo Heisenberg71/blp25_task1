@@ -35,6 +35,22 @@ __Table of contents:__
 - **11 November 2025:** Camera-ready due
 - **23-14 December 2025:** Workshop co-located with IJCNLP-AACL 2025 (Mumbai, India)
 
+
+## Proceedings
+
+### Instructions to Prepare Your Shared Task Paper
+The title of paper should be in the following format: **< Team Name > at BLP-2025 Task 1: < Descriptive title of your paper >**
+
+For example, team **AlphaX** would have their title as follows: **AlphaX at BLP-2025 Task 1: Transformer Models for Hate Speech Detection**
+
+- **The shared task papers may consist of up to four (4) pages of content.**
+
+**Templates:** The Shared tasks papers must follow the ACL 2025 two-column format, using the supplied [official templates](https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-conference/jvxskxpnznfj). The templates can be downloaded in style files and formatting. Please do not modify these style files, nor should you use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review. Verification to guarantee conformance to publication standards, we will be using the [ACL pubcheck tool](https://github.com/acl-org/aclpubcheck). The PDFs of camera-ready papers must be run through this tool prior to their final submission, and we recommend its use also at submission time.
+
+Submissions are open to only for the teams who submitted their systems during the evaluation phase and listed in the leaderboard. The working notes are to be submitted in both anonymously and non-anonymously.
+
+## Recent Updates
+
 ## Recent Updates
 * __[11/07/2025]__  Release example scripts using DistilBERT model for subtask 1A and subtask 1B
 * __[10/07/2025]__  Development phase starts
@@ -299,6 +315,19 @@ Where:
 There are various papers associated with the task. Details for the papers specific to the task as well as an overall overview will be posted here as they come out. Bib entries for each paper are included here.
 ```
 will update soon
+
+
+@inproceedings{blp2025-overview-task1,
+    title = "BLP 2023 Task 1: Hate Speech Identification",
+    author = "Hasan, Md Arid and Alam, Firoj and Hossain, Md Fahad and Naseem, Usman and Ahmed, Syed Ishtiaque",
+    booktitle = "Proceedings of the Second International Workshop on Bangla Language Processing (BLP-2025)",
+    month = dec,
+    year = "2025",
+    address = "India",
+    publisher = "Association for Computational Linguistics",
+}
+
+
 ```
 
 
