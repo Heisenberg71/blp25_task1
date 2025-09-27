@@ -1,5 +1,5 @@
 # ignore files with labels
-*_with_labels.tsv
+#*_with_labels.tsv
 
 __pycache__
 
