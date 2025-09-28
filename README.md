@@ -318,7 +318,7 @@ will update soon
 
 
 @inproceedings{blp2025-overview-task1,
-    title = "Overview of BLP 2025 Task 1: Hate Speech Identification",
+    title = "Overview of BLP 2025 Task 1: Bangla Hate Speech Identification",
     author = "Hasan, Md Arid and Alam, Firoj and Hossain, Md Fahad and Naseem, Usman and Ahmed, Syed Ishtiaque",
     booktitle = "Proceedings of the Second International Workshop on Bangla Language Processing (BLP-2025)",
     month = dec,
