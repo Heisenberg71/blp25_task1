@@ -314,13 +314,27 @@ Where:
 ## Citation
 There are various papers associated with the task. Details for the papers specific to the task as well as an overall overview will be posted here as they come out. Bib entries for each paper are included here.
 ```
-will update soon
-
+@article{hasan2025llm,
+      title={LLM-Based Multi-Task Bangla Hate Speech Detection: Type, Severity, and Target}, 
+      author={Hasan, Md Arid and Alam, Firoj and Hossain, Md Fahad and Naseem, Usman and Ahmed, Syed Ishtiaque},
+      year={2025},
+      journal={arXiv preprint arXiv:2510.01995},
+      url={https://arxiv.org/abs/2510.01995},
+}
 
 @inproceedings{blp2025-overview-task1,
     title = "Overview of BLP 2025 Task 1: Bangla Hate Speech Identification",
     author = "Hasan, Md Arid and Alam, Firoj and Hossain, Md Fahad and Naseem, Usman and Ahmed, Syed Ishtiaque",
     booktitle = "Proceedings of the Second International Workshop on Bangla Language Processing (BLP-2025)",
+    editor = {Alam, Firoj
+          and Kar, Sudipta
+          and Chowdhury, Shammur Absar
+          and Hassan, Naeemul
+          and Prince, Enamul Hoque
+          and Tasnim, Mohiuddin
+          and Rony, Md Rashad Al Hasan,
+          and Rahman, Md Tahmid Rahman
+    },
     month = dec,
     year = "2025",
     address = "India",
